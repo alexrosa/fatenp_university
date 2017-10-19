@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/Exercicio1-lista/Exercicio1-lista/bin/Debug/Exercicio1-lista.exe
+/Users/alexandre/Projects/Exercicio1-lista/Exercicio1-lista/bin/Debug/Exercicio1-lista.pdb
+/Users/alexandre/Projects/Exercicio1-lista/Exercicio1-lista/obj/x86/Debug/Exercicio1-lista.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/Exercicio1-lista/Exercicio1-lista/obj/x86/Debug/Exercicio1-lista.exe
+/Users/alexandre/Projects/Exercicio1-lista/Exercicio1-lista/obj/x86/Debug/Exercicio1-lista.pdb

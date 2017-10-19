@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{36AFE998-6866-4553-A355-2AB9B04B85F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaSimples/Nodo.cs">
+    <Files>
+      <File FileName="ListaSimples/Program.cs" Line="10" Column="13" />
+      <File FileName="ListaSimples/Nodo.cs" Line="6" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alexandre/Projects/ListaSimples/ListaSimples/Prova.cs" relfile="ListaSimples/Prova.cs" line="35" column="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListaSimples PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

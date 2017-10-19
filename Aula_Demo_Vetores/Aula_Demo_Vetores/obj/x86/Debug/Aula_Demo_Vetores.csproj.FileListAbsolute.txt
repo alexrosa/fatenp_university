@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/Aula_Demo_Vetores/Aula_Demo_Vetores/bin/Debug/Aula_Demo_Vetores.exe
+/Users/alexandre/Projects/Aula_Demo_Vetores/Aula_Demo_Vetores/bin/Debug/Aula_Demo_Vetores.pdb
+/Users/alexandre/Projects/Aula_Demo_Vetores/Aula_Demo_Vetores/obj/x86/Debug/Aula_Demo_Vetores.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/Aula_Demo_Vetores/Aula_Demo_Vetores/obj/x86/Debug/Aula_Demo_Vetores.exe
+/Users/alexandre/Projects/Aula_Demo_Vetores/Aula_Demo_Vetores/obj/x86/Debug/Aula_Demo_Vetores.pdb

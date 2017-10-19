@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/fatenp/fatenp/obj/x86/Debug/fatenp.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/fatenp/fatenp/bin/Debug/fatenp.exe
+/Users/alexandre/Projects/fatenp/fatenp/bin/Debug/fatenp.pdb
+/Users/alexandre/Projects/fatenp/fatenp/obj/x86/Debug/fatenp.exe
+/Users/alexandre/Projects/fatenp/fatenp/obj/x86/Debug/fatenp.pdb

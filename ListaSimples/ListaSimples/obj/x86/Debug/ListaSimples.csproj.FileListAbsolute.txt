@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/ListaSimples/ListaSimples/bin/Debug/ListaSimples.exe
+/Users/alexandre/Projects/ListaSimples/ListaSimples/bin/Debug/ListaSimples.pdb
+/Users/alexandre/Projects/ListaSimples/ListaSimples/obj/x86/Debug/ListaSimples.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/ListaSimples/ListaSimples/obj/x86/Debug/ListaSimples.exe
+/Users/alexandre/Projects/ListaSimples/ListaSimples/obj/x86/Debug/ListaSimples.pdb

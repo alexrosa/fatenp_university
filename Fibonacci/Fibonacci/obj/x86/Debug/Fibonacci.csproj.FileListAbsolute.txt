@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/Fibonacci/Fibonacci/bin/Debug/Fibonacci.exe
+/Users/alexandre/Projects/Fibonacci/Fibonacci/bin/Debug/Fibonacci.pdb
+/Users/alexandre/Projects/Fibonacci/Fibonacci/obj/x86/Debug/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/Fibonacci/Fibonacci/obj/x86/Debug/Fibonacci.exe
+/Users/alexandre/Projects/Fibonacci/Fibonacci/obj/x86/Debug/Fibonacci.pdb

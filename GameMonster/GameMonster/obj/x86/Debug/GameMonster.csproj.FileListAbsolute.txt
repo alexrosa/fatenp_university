@@ -1,0 +1,1 @@
+/Users/alexandre/Projects/GameMonster/GameMonster/obj/x86/Debug/GameMonster.csproj.CoreCompileInputs.cache

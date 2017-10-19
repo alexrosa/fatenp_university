@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C75BB978-BC6C-4383-9FEC-9349E1CE615D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameMonster/NPC.cs">
+    <Files>
+      <File FileName="GameMonster/Program.cs" Line="1" Column="1" />
+      <File FileName="GameMonster/Vampiro.cs" Line="32" Column="9" />
+      <File FileName="GameMonster/INPC.cs" Line="13" Column="1" />
+      <File FileName="GameMonster/NPC.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GameMonster PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

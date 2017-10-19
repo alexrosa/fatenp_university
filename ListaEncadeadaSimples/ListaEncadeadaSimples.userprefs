@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{06795527-01DA-4700-9471-47F207991529}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaEncadeadaSimples/Lista.cs">
+    <Files>
+      <File FileName="ListaEncadeadaSimples/Program.cs" Line="17" Column="46" />
+      <File FileName="ListaEncadeadaSimples/Node.cs" Line="13" Column="16" />
+      <File FileName="ListaEncadeadaSimples/Lista.cs" Line="89" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListaEncadeadaSimples PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/demo-array/demo-array/bin/Debug/demo-array.exe
+/Users/alexandre/Projects/demo-array/demo-array/bin/Debug/demo-array.pdb
+/Users/alexandre/Projects/demo-array/demo-array/obj/x86/Debug/demo-array.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/demo-array/demo-array/obj/x86/Debug/demo-array.exe
+/Users/alexandre/Projects/demo-array/demo-array/obj/x86/Debug/demo-array.pdb

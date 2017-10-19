@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/ListaEncadeadaSimples/ListaEncadeadaSimples/bin/Debug/ListaEncadeadaSimples.exe
+/Users/alexandre/Projects/ListaEncadeadaSimples/ListaEncadeadaSimples/bin/Debug/ListaEncadeadaSimples.pdb
+/Users/alexandre/Projects/ListaEncadeadaSimples/ListaEncadeadaSimples/obj/x86/Debug/ListaEncadeadaSimples.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/ListaEncadeadaSimples/ListaEncadeadaSimples/obj/x86/Debug/ListaEncadeadaSimples.exe
+/Users/alexandre/Projects/ListaEncadeadaSimples/ListaEncadeadaSimples/obj/x86/Debug/ListaEncadeadaSimples.pdb
