@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/Stack/Stack/bin/Debug/Stack.exe
+/Users/alexandre/Projects/Stack/Stack/bin/Debug/Stack.pdb
+/Users/alexandre/Projects/Stack/Stack/obj/x86/Debug/Stack.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/Stack/Stack/obj/x86/Debug/Stack.exe
+/Users/alexandre/Projects/Stack/Stack/obj/x86/Debug/Stack.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{46B4039E-24BA-4E1D-4738-881E86FDE150}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Comando.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Comando.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/ListaComandos.cs" Line="38" Column="5" />
+      <File FileName="Assets/Scripts/Player.cs" Line="29" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FTP-Fila PreferredExecutionTarget="Unity.Editor" />
+</Properties>

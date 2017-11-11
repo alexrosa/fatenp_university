@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{46C267E6-8742-4CBB-9B7E-264F25401A08}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio1-lista/ListaMonstros.cs">
     <Files>
-      <File FileName="Exercicio1-lista/Program.cs" Line="10" Column="10" />
-      <File FileName="Exercicio1-lista/Monstro.cs" Line="11" Column="9" />
-      <File FileName="Exercicio1-lista/ListaMonstros.cs" Line="6" Column="16" />
+      <File FileName="Exercicio1-lista/Program.cs" Line="20" Column="42" />
+      <File FileName="Exercicio1-lista/Monstro.cs" Line="13" Column="1" />
+      <File FileName="Exercicio1-lista/ListaMonstros.cs" Line="76" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

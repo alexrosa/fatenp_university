@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EBADD97A-CEC6-46F4-B7C4-F2530AB7238F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stack/Stack.cs">
+    <Files>
+      <File FileName="Stack/Program.cs" Line="9" Column="1" />
+      <File FileName="Stack/Stack.cs" Line="15" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Stack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

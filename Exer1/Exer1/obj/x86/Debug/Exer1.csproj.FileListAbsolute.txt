@@ -1,0 +1,5 @@
+/Users/alexandre/Projects/Exer1/Exer1/bin/Debug/Exer1.exe
+/Users/alexandre/Projects/Exer1/Exer1/bin/Debug/Exer1.pdb
+/Users/alexandre/Projects/Exer1/Exer1/obj/x86/Debug/Exer1.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/Exer1/Exer1/obj/x86/Debug/Exer1.exe
+/Users/alexandre/Projects/Exer1/Exer1/obj/x86/Debug/Exer1.pdb

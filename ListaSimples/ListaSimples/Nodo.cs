@@ -5,37 +5,30 @@ namespace ListaSimples
     {
         public int elemento { get; set; }
         public Nodo proximo { get; set; } 
+        public Nodo anterior { get; set; }
 
-        public Nodo(int elemento, Nodo proximo)
+        public Nodo(int elemento, Nodo proximo, Nodo anterior)
         {
             this.elemento = elemento;
             this.proximo = proximo;
+            this.anterior = anterior;
         }
 
         public Nodo()
         {
             this.elemento = 0;
-            this.proximo = null; 
+            this.proximo = null;
+            this.anterior = null;
         }
 
 
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
     public class Lista
     {
         private Nodo inicio;
+        private Nodo final;
 
 
         public void listar()
@@ -56,17 +49,23 @@ namespace ListaSimples
             Nodo novo = new Nodo();
             novo.elemento = elemento;
             novo.proximo = null;
+            novo.anterior = null;
 
             if (inicio == null){
                 inicio = novo;
+                final = novo;
             }else{
-                Nodo nodo_aux = inicio;
-                while(nodo_aux.proximo != null)
+                Nodo atual = inicio;
+                Nodo ultimo = final;
+                while(atual.proximo != null)
                 {
-                    nodo_aux = nodo_aux.proximo;    
+                    ultimo = atual;
+                    atual = atual.proximo;    
                 }
                 //insere o novo nó
-                nodo_aux.proximo = novo;
+                atual.proximo = novo;
+                novo.anterior = ultimo;
+                final = novo;
             }
         }
 
@@ -76,6 +75,70 @@ namespace ListaSimples
             int elemento = aux.elemento;
             inicio = aux.proximo;
             return elemento;
+        }
+
+        public int retirarNohEspecifico(int elemento)
+        {
+            Nodo atual = inicio;
+            Nodo ultimo = final;
+
+            while (atual.proximo != null)
+            {
+                ultimo = atual;
+                atual = atual.proximo;
+
+                if (elemento == atual.elemento)
+                    break;
+            }
+
+            Nodo prox = atual.proximo;
+            ultimo.proximo = prox;
+            prox.anterior = ultimo;
+
+            return elemento;
+        }
+
+        public void inserirNoIniciodaLista(int elemento)
+        {
+            Nodo novoNoh = new Nodo(elemento, null, null);
+
+            if (inicio == null)
+            {
+                inicio = novoNoh;
+                final = novoNoh;
+            }else{
+                //aponta o ponteiro anterior p/ o novo nó
+                inicio.anterior = novoNoh;
+                //aponta o próximo do novo nó p/ o início.
+                novoNoh.proximo = inicio;
+                //troca o nó inicial pelo novo nó.
+                inicio = novoNoh;
+            }
+        }
+
+        public void insereNoFinaldaLista(int elemento)
+        {
+            Nodo novoNoh = new Nodo(elemento, null, null);
+
+            if (inicio == null)
+            {
+                inicio = novoNoh;
+                final = novoNoh;
+            }
+            else
+            {
+                //deixa de ser o último nó da lista
+                final.proximo = novoNoh;
+                //copia a referência do ultimo nó p/ o novo
+                novoNoh.anterior = final;
+                //agora o último nó passa a ser o novo nó inserido.
+                final = novoNoh;
+            }
+        }
+
+        public void mostarUltimoNoInserido()
+        {
+            Console.WriteLine("Ultimo nó adicionado é {0}", final.elemento);
         }
 
         public bool listaVazia()
